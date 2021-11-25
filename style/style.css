@@ -48,6 +48,10 @@ body{
   justify-content: space-between;
   align-items: center;
 }
+
+.site-logo {
+  display: block;
+}
 .header ul{
   display: flex;
   justify-content: space-around;
